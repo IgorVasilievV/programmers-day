@@ -25,4 +25,4 @@ public class Praktikum {
             return false;
                     }
     }
-}
+} // проверка pull
